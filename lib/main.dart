@@ -64,7 +64,7 @@ void _resetQuiz() {
     return MaterialApp(
       home: Scaffold(
         appBar: AppBar(
-          title: Text('My First App'),
+          title: Text('Personality Check'),
         ),
         body: _questionIndex < _questions.length
             ? Quiz(
