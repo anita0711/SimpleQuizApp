@@ -1,4 +1,4 @@
-# quiz_app
+# Personality Check - Simple flutter app
 
 ## Background
 
